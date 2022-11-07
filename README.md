@@ -1,11 +1,10 @@
-👋 Hi, I’m @philskents; security pragmatist, infosec mad scientist & thirdstring DPS in my mother-in-law's WoW guild!
+# WARNING, ALL CODE HERE IS MY TRASH
 
-👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+For more information about me and my myriad of projects:
 
-:eyes: 
+* (https://links.thesatelliteoflove.com)[Link page]
+
+
 
 <!---
 philskents/philskents is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
