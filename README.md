@@ -2,7 +2,7 @@
 
 For more information about me and my myriad of projects:
 
-* (https://links.thesatelliteoflove.com)[Link page]
+* [Link page](https://links.thesatelliteoflove.com)
 
 
 
